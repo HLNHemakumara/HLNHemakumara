@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working As Software Engineer a<br>👯 I’m looking to collaborate on  innovative software projects and open source contributions<br>🤝 I’m looking for help with  mastering new technologies and enhancing my coding skills<br>🌱 I’m currently learning Software Engineering , Advanced python,Database technologies,AWS <br>💬 Ask me about software design patterns, web development,Software Development or anything tech-related!<br>
+🔭 I’m currently working As a Software Engineer <br>👯 I’m looking to collaborate on  innovative software projects and open source contributions<br>🤝 I’m looking for help with  mastering new technologies and enhancing my coding skills<br>🌱 I’m currently learning Software Engineering , Advanced python,Database technologies,AWS <br>💬 Ask me about software design patterns, web development,Software Development or anything tech-related!<br>
 
 
 ## 🌐 Socials:
